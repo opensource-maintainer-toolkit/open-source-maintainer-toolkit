@@ -10,7 +10,7 @@ Whether you are launching your first project or preparing to onboard your reposi
 
 | Directory | Purpose |
 |---|---|
-| [`docs/`](./docs) | In-depth guides: getting started, maintainer workflows, contributor onboarding, Drips Wave points, FAQ |
+| [`docs/`](./docs) | In-depth guides: getting started, maintainer workflows, contributor onboarding, Drips Wave points, funding model comparison, FAQ |
 | [`templates/`](./templates) | Ready-to-use checklists and templates for issues and pull requests |
 | [`.github/`](./.github) | Issue templates, pull request template, and community health files |
 
