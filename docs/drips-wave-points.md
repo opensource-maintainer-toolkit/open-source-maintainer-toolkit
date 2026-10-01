@@ -57,3 +57,20 @@ Use Compliments to:
 ## How Rewards Are Calculated
 
 At the end of a Wave, the total Reward Budget (e.g., $50,000) is distributed among all contributors based on their share of total points earned during that Wave.
+
+## Funding Model Comparison: Drips Wave vs Alternatives
+
+Drips Wave is one of several funding models for open source work. The table below compares it against three common alternatives so maintainers can pick the model that fits their project's needs.
+
+| Model | Setup Cost | Recurring | Contributor-Facing | Best For |
+|---|---|---|---|---|
+| **Drips Wave** | Free (Wave Organizer funds the pool) | Yes (recurring sprints) | Yes (apply through Drips app, leaderboard standings) | Sustaining a contributor pipeline across multiple sprints where maintainers want predictable, scoped work |
+| **GitHub Sponsors** | Free (no platform fee) | Yes (tier-based monthly) | Indirect (sponsorships go to the maintainer, not specific issues) | Covering a maintainer's ongoing income from individual or corporate backers |
+| **Open Collective** | Host fee (5–10% of collected funds) | Yes (sponsor subscriptions and one-time donations) | Yes (contributors can submit reimbursable expenses through the collective) | Projects that need transparent budget tracking across multiple sponsors |
+| **Issue Bounties** (Algora, Opire, Gitcoin) | Free to list; bounty amount is funded up front | No (per-issue, one-off) | Yes (very direct: solve the issue, receive the payout) | Targeted, well-scoped one-off contributions where the maintainer wants an immediate incentive |
+
+### When to pick which
+
+Drips Wave sits between GitHub Sponsors (which pays the maintainer directly) and issue bounties (which pay per task). It preserves the recurring rhythm of Sponsors and the per-issue incentive of bounties, while removing the maintainer's funding burden by routing the reward pool through the Wave Organizer. For maintainers running quarterly contributor sprints on top of an existing sponsors program, Drips Wave can layer on top of it without replacing it; Open Collective works well alongside Drips Wave for tracking the project's overall budget; issue bounties fit cleanly for one-off high-priority work that needs a fast turnaround rather than recurring cadence.
+
+The choice rarely is "one or the other." Most thriving open source projects combine at least two of these models — for instance, a maintainer on GitHub Sponsors for personal income, an Open Collective for transparent project expenses, and Drips Wave for sustained contributor onboarding.
