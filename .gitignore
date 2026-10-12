@@ -8,7 +8,6 @@ Thumbs.db
 Desktop.ini
 
 # Editor / IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -22,6 +21,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+temp_auto_push.bat
 
 # Python (if tooling is added later)
 __pycache__/
@@ -38,11 +38,12 @@ out/
 *.log
 
 # Environment Variables
-.env
-.env.local
 .env.*.local
 
 # Temporary Files
 *.tmp
 *.temp
 .cache/
+.gitignore
+branch_structure.json
+config.bat
